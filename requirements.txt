@@ -1,0 +1,8 @@
+pandas
+requests
+beautifulsoup4
+pdfplumber
+openpyxl
+pyodbc
+jupyter
+matplotlib
